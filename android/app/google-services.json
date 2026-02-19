@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "55676214183",
+    "project_id": "groupthree-chatapp",
+    "storage_bucket": "groupthree-chatapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55676214183:android:84a2637a9b618d8ed6b482",
+        "android_client_info": {
+          "package_name": "com.example.groupthree_chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4m4tyV362gQumFmTSbv6_hMTHw90gxTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
